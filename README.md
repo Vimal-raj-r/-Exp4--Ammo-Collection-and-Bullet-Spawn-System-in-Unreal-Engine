@@ -1,4 +1,4 @@
-# exp-4 🎮 Ammo Collection and Bullet Spawn System in Unreal Engine
+# exp-5 🎮 Ammo Collection and Bullet Spawn System in Unreal Engine
 
 ## 🎯 Aim
 To implement a gameplay feature where the player collects ammo pickups in the game world. Upon collecting ammo, the player's ammo count increases, enabling more bullet spawns (shots).
